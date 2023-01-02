@@ -8,3 +8,6 @@ h2 {
 span {
   font-size: 200%;
 }
+[id="special"] {
+  background-color: yellow;
+}

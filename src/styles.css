@@ -1,0 +1,12 @@
+[id="special"] {
+  background-color: yellow;
+}
+span[class="alert"] {
+  border: 1px solid gray;
+}
+[class="alert stop"] {
+  background-color: red;
+}
+[class$="go"] {
+  background-color: green;
+}
