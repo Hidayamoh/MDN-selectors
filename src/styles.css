@@ -4,9 +4,9 @@
 .alert {
   border: 1px solid gray;
 }
-.alert stop {
+.alert.stop {
   background-color: red;
 }
-.go {
+.alert.go {
   background-color: green;
 }
