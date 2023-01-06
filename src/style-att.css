@@ -1,4 +1,4 @@
-[title~="visit"] {
+a[title] {
   border-color: pink;
 }
 [href*="contact"] {
